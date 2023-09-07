@@ -25,6 +25,7 @@
 
 #include <sstream>
 #include <string>
+#include <cstdint>
 
 #include "mfxdefs.h"
 #include "mfxplugin.h"
